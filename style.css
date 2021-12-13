@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(119, 255, 0);
+    color: #1900ff;
+ }
+ 
+ .heading{
+    width: 70%;
+    font-size: 30px;
+    cursor: default;
+    cursor: crosshair;
+    background-color: blueviolet;
+    
+ }
+ 
+ .object-names{
+     color: rgb(255, 0, 191);
+     text-shadow: gray 5px 5px;
+ }
+ 
+ #camera{
+   border: 10px dotted rgb(0, 255, 242);  
+   width: 350px;
+   height: 300px;
+ }
+ 
+ #result_objectname,#result_objectaccuracy{
+  font-size: 20px;
+  color: rgb(0, 132, 255);
+  font-weight: bolder;
+ }
